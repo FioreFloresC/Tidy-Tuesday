@@ -1,4 +1,4 @@
-# ### Tidy-Tuesday ###
+# *** Tidy-Tuesday ***
 Working with datasets of Tidy Tuesday.
 
 # Anime Data
