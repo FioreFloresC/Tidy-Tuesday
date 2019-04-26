@@ -24,6 +24,7 @@ summary(df_shoujoai[,4:7])
 library(ggplot2)
 library(GGally)
 ggcorr(df_shoujoai[,4:7],label=TRUE)
+ggcorr(df_shoujoai[,4:7],label=TRUE,method = c("pairwise", "spearman"))
 
 #Take this Lollipop
 library(tidyverse)
